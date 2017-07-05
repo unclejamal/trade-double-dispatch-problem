@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1551999247/kotliny.iml" filepath="$PROJECT_DIR$/.idea/modules/-1551999247/kotliny.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1551999247/kotliny_main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1551999247/kotliny_main.iml" group="kotliny" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1551999247/kotliny_test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1551999247/kotliny_test.iml" group="kotliny" />
+    </modules>
+  </component>
+</project>
